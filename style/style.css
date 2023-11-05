@@ -6,7 +6,7 @@
 body{
     width: 100%;
     background-color: rgba(213, 225, 206, 0.7);
-    background-image: url(/media/background.png);
+    background-image: url(/Klever/media/background.png);
     background-repeat: repeat;
     background-position: center center;
 }
@@ -94,7 +94,7 @@ header{
     display: flex;
     justify-content: left;
     align-items: end;
-    background-image: url(/media/main.png);
+    background-image: url(/Klever/media/main.png);
     background-size: cover;
     background-position: center center;
 }
@@ -127,7 +127,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/media/about.png);
+    background-image: url(/Klever/media/about.png);
     background-size: cover;
 }
 .aboutText{
