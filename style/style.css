@@ -6,7 +6,7 @@
 body{
     width: 100%;
     background-color: rgba(213, 225, 206, 0.7);
-    background-image: url(../Klever/media/background.png);
+    background-image: url(/Klever/media/background.png);
     background-repeat: repeat;
     background-position: center center;
 }
