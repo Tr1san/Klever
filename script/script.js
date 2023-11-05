@@ -6,7 +6,7 @@ const img = document.getElementById('carousel');
 const rightBtn = document.getElementById('right-btn');
 const leftBtn = document.getElementById('left-btn');
 
-let pictures = ['/media/Nomer1.png', '/media/Nomer2.png', '/media/Nomer7.png', '/media/Nomer3.png', '/media/Nomer4.png', '/media/Nomer5.png', '/media/Nomer6.png'];
+let pictures = ['/Klever/media/Nomer1.png', '/Klever/media/Nomer2.png', '/Klever/media/Nomer7.png', '/Klever/media/Nomer3.png', '/Klever/media/Nomer4.png', '/Klever/media/Nomer5.png', '/Klever/media/Nomer6.png'];
 
 img.src = pictures[0];
 let position = 0;
@@ -40,7 +40,7 @@ const img2 = document.getElementById('carousel2');
 const rightBtn2 = document.getElementById('right-btn-2');
 const leftBtn2 = document.getElementById('left-btn-2');
 
-let pictures2 = ['/media/bath1.png', '/media/bath2.png', '/media/bath3.png', '/media/bath4.png'];
+let pictures2 = ['/Klever/media/bath1.png', '/Klever/media/bath2.png', '/Klever/media/bath3.png', '/Klever/media/bath4.png'];
 
 img2.src = pictures2[0];
 let position2 = 0;
@@ -74,7 +74,7 @@ const img3 = document.getElementById('carousel3');
 const rightBtn3 = document.getElementById('right-btn-3');
 const leftBtn3 = document.getElementById('left-btn-3');
 
-let pictures3 = ['/media/Gase1.png', '/media/Gase2.png', '/media/Gase3.png', '/media/Gase4.png'];
+let pictures3 = ['/Klever/media/Gase1.png', '/Klever/media/Gase2.png', '/Klever/media/Gase3.png', '/Klever/media/Gase4.png'];
 
 img3.src = pictures3[0];
 let position3 = 0;
