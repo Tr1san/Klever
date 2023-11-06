@@ -715,7 +715,11 @@ button .arrow {
     display: none;
   }
 }
-
+@media (max-width: 386px) {
+  .aboutText{
+    height: auto;
+  }
+}
 @keyframes burgerAnimation {
     from {opacity: 0}
     to {opacity: 1}
